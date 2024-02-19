@@ -1,0 +1,14 @@
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.AssemblyInfoInputs.cache
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.AssemblyInfo.cs
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.csproj.CoreCompileInputs.cache
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\bin\Debug\net6.0\HelloWorld_Otis_Robert.exe
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\bin\Debug\net6.0\HelloWorld_Otis_Robert.deps.json
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\bin\Debug\net6.0\HelloWorld_Otis_Robert.runtimeconfig.json
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\bin\Debug\net6.0\HelloWorld_Otis_Robert.dll
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\bin\Debug\net6.0\HelloWorld_Otis_Robert.pdb
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.dll
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\refint\HelloWorld_Otis_Robert.dll
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.pdb
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\HelloWorld_Otis_Robert.genruntimeconfig.cache
+C:\Users\RobertOtis\Documents\Class Work'\3  Basic Programming\Hello world\Hello world code\HelloWorld_Otis_Robert\HelloWorld_Otis_Robert\obj\Debug\net6.0\ref\HelloWorld_Otis_Robert.dll
